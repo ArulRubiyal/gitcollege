@@ -3,20 +3,13 @@ package org.college;
 public class College {
 	public void collegeName() {
 		System.out.println("College Name is GCT");
-
 	}
-
 	public void collegeCode() {
 		System.out.println("College Code is 007");
-
 	}
-	
-	
 	private void collegeWeb() {
 		System.out.println("College web id is gct.cbe.in");
 	}
-	
-	
 	private void collegeAdd() {
 		System.out.println("COllege Address is ECR chennai");
 	}
