@@ -10,6 +10,11 @@ public class College {
         
 
 	}
+	
+	private void collegeWeb() {
+		System.out.println("College web id is gct.cbe.in");
+	}
+	
 	public void collegeRank() {
 		System.out.println("College Rank is 7");
 
